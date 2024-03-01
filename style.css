@@ -237,4 +237,10 @@ input[type="radio"]{
     .logo{
         width: 100px;
     }
+    nav button{
+        padding: 5px 10px;
+    }
+    nav .language-btn{
+        padding: 4px 8px;
+    }
 }
